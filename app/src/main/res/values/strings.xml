@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Congratulation Card</string>
+    <string name="congratulation_message">Congratulation!</string>
+    <string name="hint_name">Tuliskan Nama Kamu</string>
+    <string name="hint_message">Tuliskan Pesan Kamu disini</string>
+    <string name="submit_button">Submit</string>
+    <string name="name_display_default">Nama tidak tersedia</string>
+    <string name="message_display_default">Pesan tidak tersedia</string>
 </resources>
